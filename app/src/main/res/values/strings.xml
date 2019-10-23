@@ -11,4 +11,11 @@
     <string name="password_error">Please enter a correct password</string>
     <string name="full_name_error">Please enter your full name</string>
     <string name="input_valid">Input is valid!</string>
+
+    <string name="login_error">Ops! Something went wrong during login.</string>
+    <string name="user_accounts">User Accounts</string>
+    <string name="individual_account">Individual Account</string>
+    <string name="total_plan_value">Total Plan Value: £</string>
+    <string name="add_10">Add 10 £</string>
+
 </resources>

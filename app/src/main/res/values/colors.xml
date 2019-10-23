@@ -6,4 +6,11 @@
     <color name="white">#ffffff</color>
     <color name="light_grey">#dde0e2</color>
 
+    <color name="red">#ff0000</color>
+    <color name="green">#00ff00</color>
+    <color name="blue">#0000ff</color>
+    <color name="lightGreen">#99ff33</color>
+    <color name="darkGreen">#009933</color>
+    <color name="lightOrange">#ff9933</color>
+
 </resources>
