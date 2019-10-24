@@ -132,6 +132,7 @@ class LoginActivity : AppCompatActivity() {
                         intent.putExtra("name", name)
                     }
                     intent.putExtra("json", myResponse)
+                    intent.putExtra("token", token)
                     startActivity(intent)
                     finish()
                 }

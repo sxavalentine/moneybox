@@ -17,5 +17,11 @@
     <string name="individual_account">Individual Account</string>
     <string name="total_plan_value">Total Plan Value: £</string>
     <string name="add_10">Add 10 £</string>
+    <string name="back">BACK</string>
+    <string name="payment_error">Ops! Transaction unsuccessful.</string>
+    <string name="payment_ok">Transaction successful.</string>
+
+    <string name="plan_value">"Plan Value: £"</string>
+    <string name="moneybox_value">"Moneybox: £"</string>
 
 </resources>
