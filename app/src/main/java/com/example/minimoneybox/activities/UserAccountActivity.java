@@ -17,7 +17,7 @@ import com.example.minimoneybox.entities.UserAccountJSON;
 import com.google.gson.Gson;
 import java.util.List;
 
-import static android.view.View.GONE;
+import static android.view.View.GONE; 
 
 public class UserAccountActivity extends AppCompatActivity {
 
