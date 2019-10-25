@@ -102,21 +102,4 @@ public class UserAccountActivity extends AppCompatActivity {
             count++;
         }
     }
-
-//    @Override
-//    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
-//        if (requestCode == 1) {
-//            if (resultCode == Activity.RESULT_OK) {
-//                String json = getIntent().getStringExtra("json");
-//                this.json = json;
-//                String updatedAmount = getIntent().getStringExtra("updatedAmount");
-//                int viewToBeUpdatedId = getIntent().getIntExtra("viewToBeUpdatedId", 9999);
-//                if (viewToBeUpdatedId != 9999) {
-//                    View viewToBeUpdated = findViewById(viewToBeUpdatedId);
-//                    TextView tvMoneybox = viewToBeUpdated.findViewById(R.id.planMoneybox);
-//                    tvMoneybox.setText(getString(R.string.moneybox_value) + updatedAmount);
-//                }
-//            }
-//        }
-//    }
 }
